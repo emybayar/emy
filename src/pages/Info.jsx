@@ -116,6 +116,22 @@ const Info = () => {
               emysainbayar@nyu.edu
             </a>
           </div>
+          <div className="descriptions">
+            <a
+              href="https://www.instagram.com/emybayar/"
+              style={{ color: "inherit", textDecoration: "underline" }}
+            >
+              Instagram
+            </a>
+          </div>
+          <div className="descriptions">
+            <a
+              href="https://www.linkedin.com/in/emy-sainbayar/"
+              style={{ color: "inherit", textDecoration: "underline" }}
+            >
+              LinkedIn
+            </a>
+          </div>
         </div>
       </div>
     </>
