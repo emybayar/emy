@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import ThreeBackground from "./components/ThreeBackground";
 import Landing from "./pages/Landing";
 import Projects from "./pages/Projects";
