@@ -107,7 +107,8 @@ const Info = () => {
           </div>
         </div>
         <div id="contact">
-          <div className="title">
+          <div className="title">CONTACT</div>
+          <div className="descriptions">
             <a
               href="mailto:emysainbayar@nyu.edu"
               style={{ color: "inherit", textDecoration: "underline" }}
