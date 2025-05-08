@@ -12,10 +12,12 @@ const LiveCoding = () => (
         "Performed with Shanghai Subroute.",
       ]}
       media={[
+        { type: "image", src: "/imgs/llms-nums/lc-1.png" },
         {
           type: "embed",
           embedCode: `<iframe title="vimeo-player" src="https://player.vimeo.com/video/1070392143?h=8c21b387de" width="640" height="360" frameborder="0"    allowfullscreen></iframe>`,
         },
+        { type: "image", src: "/imgs/llms-nums/lc-2.png" },
       ]}
     />
   </Layout>

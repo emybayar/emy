@@ -17,9 +17,9 @@ const LLMs = () => (
           type: "embed",
           embedCode: `<iframe title="vimeo-player" src="https://player.vimeo.com/video/1081432954?h=62a05c632f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>`,
         },
-        // { type: "image", src: "/imgs/llms-nums/llms-nums-1.png" },
-        // { type: "image", src: "/imgs/llms-nums/llms-nums-3.png" },
-        // { type: "image", src: "/imgs/llms-nums/llms-nums-5.png" },
+        { type: "image", src: "/imgs/llms-nums/llms-nums-1.png" },
+        { type: "image", src: "/imgs/llms-nums/llms-nums-3.png" },
+        { type: "image", src: "/imgs/llms-nums/llms-nums-5.png" },
       ]}
     />
   </Layout>

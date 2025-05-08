@@ -13,6 +13,7 @@ const EndlessPoem = () => (
         "Credits (posts from): @fizzwizz-22, @wyzechyld, @starry-eyer, @theogonize.",
       ]}
       media={[
+        { type: "image", src: "/imgs/llms-nums/endless-poem-1.png" },
         {
           type: "embed",
           embedCode: `<iframe title="vimeo-player" src="https://player.vimeo.com/video/1081535254?h=f32784ca2f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>`,
