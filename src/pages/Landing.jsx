@@ -43,8 +43,8 @@ const Landing = () => {
 
     if (isMobileDevice) {
       setTimeout(() => {
-        autoTypeInterval = setInterval(typeWord, 500);
-      }, 1000);
+        autoTypeInterval = setInterval(typeWord, 200);
+      }, 500);
     }
 
     return () => {
