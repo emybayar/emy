@@ -12,6 +12,7 @@ import EndlessPoem from "./pages/projects/EndlessPoem";
 import LiveCoding from "./pages/projects/LiveCoding";
 import Breakfast from "./pages/projects/Breakfast";
 import AlgorithmicPlaywright from "./pages/projects/AlgorithmicPlaywright";
+import Crawler525 from "./pages/projects/Crawler525";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/info" element={<Info />} />
         <Route path="/projects" element={<Projects />} />
 
+        <Route path="/projects/crawler525" element={<Crawler525 />} />
         <Route path="/projects/enfut" element={<Enfut />} />
         <Route path="/projects/llms-numbers" element={<LLMs />} />
         <Route

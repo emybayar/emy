@@ -9,6 +9,7 @@ const Projects = () => {
   }, []);
 
   const projects = [
+    { title: ">> crawler525", slug: "crawler525" },
     { title: ">> Endless (Authorless) Poem", slug: "endless-authorless-poem" },
     {
       title: ">> LLMs Understand Numbers (Differently)?",
