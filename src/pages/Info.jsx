@@ -37,17 +37,16 @@ const Info = () => {
           <div className="title">EMY (EMUJIN) SAINBAYAR</div>
           <div className="descriptions">
             {" "}
-            I am a student, researcher and an aspiring creative technologist
-            from Mongolia, currently wrapping up my senior year of college in
-            Shanghai. Through practice, I explore the creative dynamics between
-            humans and algorithms.
+            I am a student, researcher, and an aspiring creative technologist
+            based in London, UK. Through practice, I explore the creative
+            dynamics between humans and algorithms.
           </div>
         </div>
         <>
           <div id="currently">
-            <div className="title">CURRENTLY</div>
+            <div className="title">RECENTLY</div>
             <div className="descriptions">
-              <div className="role">
+              {/* <div className="role">
                 Student @
                 <a
                   href="https://shanghai.nyu.edu/academics/majors/interactive-media-arts"
@@ -56,7 +55,7 @@ const Info = () => {
                 >
                   IMA
                 </a>
-              </div>
+              </div> */}
               <div className="role">
                 Researcher @
                 <a
@@ -103,7 +102,8 @@ const Info = () => {
         <div id="education">
           <div className="title">EDUCATION</div>
           <div className="descriptions">
-            Bachelor of Science in Interactive Media Arts, NYU Shanghai, 2025
+            Honors BS in Interactive Media Arts, NYU, 2025 Minors in Web Dev &
+            Programming + Creative Writing
           </div>
         </div>
         <div id="contact">
