@@ -37,9 +37,9 @@ const Info = () => {
           <div className="title">EMY (EMUJIN) SAINBAYAR</div>
           <div className="descriptions">
             {" "}
-            I am a student, researcher, and a creative technologist based in
-            London, UK. Through practice, I explore the creative dynamics
-            between humans and algorithms.
+            I am a researcher and a creative technologist based in London, UK.
+            Through practice, I explore the creative dynamics between humans and
+            algorithms.
           </div>
         </div>
         <>
