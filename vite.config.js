@@ -7,3 +7,8 @@ export default defineConfig({
   base: process.env.VITE_BASE_PATH || "/emy",
   // base: "/emybayar/emy",
 });
+
+// comment out base
+// git add .
+// git commit -m "haha"
+// git push
