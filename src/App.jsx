@@ -32,10 +32,10 @@ function App() {
         />
         <Route path="/projects/live-coding" element={<LiveCoding />} />
         <Route path="/projects/breakfast-12000-ag" element={<Breakfast />} />
-        <Route
+        {/* <Route
           path="/projects/algorithmic-playwright"
           element={<AlgorithmicPlaywright />}
-        />
+        /> */}
       </Routes>
     </>
   );
