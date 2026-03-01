@@ -33,7 +33,7 @@ const Info = () => {
       </div>
 
       <div id="info-container" className="active">
-        <div id="name">
+        {/* <div id="name">
           <div className="title">EMY (EMUJIN) SAINBAYAR</div>
           <div className="descriptions">
             {" "}
@@ -41,7 +41,7 @@ const Info = () => {
             Through practice, I explore the creative dynamics between humans and
             algorithms.
           </div>
-        </div>
+        </div> */}
         <>
           <div id="currently">
             <div className="title">RECENTLY</div>
