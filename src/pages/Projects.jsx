@@ -22,10 +22,10 @@ const Projects = () => {
       title: ">> Breakfast: 12000, After Guild (Ongoing)",
       slug: "breakfast-12000-ag",
     },
-    {
-      title: ">> Algorithmic Playwright (Ongoing)",
-      slug: "algorithmic-playwright",
-    },
+    // {
+    //   title: ">> Algorithmic Playwright (Ongoing)",
+    //   slug: "algorithmic-playwright",
+    // },
   ];
 
   return (
