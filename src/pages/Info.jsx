@@ -77,7 +77,7 @@ const Info = () => {
                   Soft Technologies
                 </a>
               </div>
-              <div className="role">
+              {/* <div className="role">
                 Creator @
                 <a
                   href="https://www.instagram.com/zeencollective/"
@@ -86,7 +86,7 @@ const Info = () => {
                 >
                   ZEEN* Collective
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </>
