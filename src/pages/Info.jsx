@@ -44,6 +44,7 @@ const Info = () => {
         </div> */}
         <>
           <div id="currently">
+            <div className="title">CURRENTLY</div>
             <div className="title">RECENTLY</div>
             <div className="descriptions">
               {/* <div className="role">
