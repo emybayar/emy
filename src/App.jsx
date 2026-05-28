@@ -31,7 +31,7 @@ function App() {
           element={<EndlessPoem />}
         />
         <Route path="/projects/live-coding" element={<LiveCoding />} />
-        <Route path="/projects/breakfast-12000-ag" element={<Breakfast />} />
+        {/* <Route path="/projects/breakfast-12000-ag" element={<Breakfast />} /> */}
         {/* <Route
           path="/projects/algorithmic-playwright"
           element={<AlgorithmicPlaywright />}
