@@ -8,8 +8,11 @@ const Landing = () => {
   const [instructionsText, setInstructionsText] = useState("");
   const fullInstructions = "try typing, dragging, or scrolling";
 
+  // const aboutMe =
+  //   "I am a student, researcher, and an aspiring creative technologist from Mongolia, currently wrapping up my senior year of college in Shanghai. Through practice, I explore the creative dynamics between humans and algorithms.";
+
   const aboutMe =
-    "I am a student, researcher, and an aspiring creative technologist from Mongolia, currently wrapping up my senior year of college in Shanghai. Through practice, I explore the creative dynamics between humans and algorithms.";
+    "I am a big fan of all things algorithmic, rudimentary, and human!";
   const words = aboutMe.split(" ");
 
   const redWords = new Set([
@@ -20,7 +23,9 @@ const Landing = () => {
     "emergent",
     "dynamics",
     "humans",
-    "algorithms.",
+    "algorithmic,.",
+    "rudimentary,",
+    "human!",
   ]);
 
   const typeWord = () => {
