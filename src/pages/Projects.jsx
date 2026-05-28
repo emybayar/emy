@@ -18,10 +18,10 @@ const Projects = () => {
     { title: ">> Enfut", slug: "enfut" },
     { title: ">> Live Coding", slug: "live-coding" },
     // { title: ">> Tyler in Minecraft", slug: "tyler-minecraft" },
-    {
-      title: ">> Breakfast: 12000, After Guild (Ongoing)",
-      slug: "breakfast-12000-ag",
-    },
+    // {
+    //   title: ">> Breakfast: 12000, After Guild (Ongoing)",
+    //   slug: "breakfast-12000-ag",
+    // },
     // {
     //   title: ">> Algorithmic Playwright (Ongoing)",
     //   slug: "algorithmic-playwright",

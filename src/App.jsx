@@ -10,7 +10,7 @@ import Enfut from "./pages/projects/Enfut";
 import LLMs from "./pages/projects/LLMsAndNums";
 import EndlessPoem from "./pages/projects/EndlessPoem";
 import LiveCoding from "./pages/projects/LiveCoding";
-import Breakfast from "./pages/projects/Breakfast";
+// import Breakfast from "./pages/projects/Breakfast";
 import AlgorithmicPlaywright from "./pages/projects/AlgorithmicPlaywright";
 import Crawler525 from "./pages/projects/Crawler525";
 
