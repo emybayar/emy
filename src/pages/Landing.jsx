@@ -23,7 +23,7 @@ const Landing = () => {
     "emergent",
     "dynamics",
     "humans",
-    "algorithmic,.",
+    "algorithmic,",
     "rudimentary,",
     "human!",
   ]);
